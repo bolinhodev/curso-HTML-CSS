@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+    background-color: #124556;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
