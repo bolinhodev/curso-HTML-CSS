@@ -18,8 +18,22 @@ header > h1 {
     text-align: center;
 }
 
-menu {
+#burguer {
+    background-color:#944b38;
+    color: white;
     display: block;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#burguer:hover {
+    background-color: rgb(110, 34, 34);
+    color: #EFCB7C;
+}
+
+menu {
+    display: none;
 }
 
 menu > ul {
@@ -47,6 +61,7 @@ main {
     margin-top: 10px;
     padding: 10px;
     border-radius: 10px;
+    color: white;
 }
 
 article > h2 {
